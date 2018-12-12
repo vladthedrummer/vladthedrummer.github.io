@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+
+nav {
+    background-color: black;
+}
+
+p{
+    font-size: 20px;
+    color: white;
+    background-color: royalblue;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    font-family: 'Fjalla One', sans-serif;
+}
+body{
+   background-color: black;
+}
+
+
+
+
+#indrums h3{
+    color: white;
+}
+
+#drumvids h3{
+    color: white;
+}
+
+#incamera h3{
+    color: white;
+}
+
+h3{
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}
+
+h4{
+    color: white;
+}
+
+.parallax-container {
+  min-height: 500px;
+  line-height: 0;
+  height: auto;
+}
+
+
+
+
+
+
+
+
